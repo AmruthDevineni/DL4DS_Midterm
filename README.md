@@ -17,7 +17,7 @@ This challenge involves training and evaluating deep learning models on the CIFA
 
 ## 📁 Repository Structure
 
-```
+
 .
 ├── starter_code.py           # Part 1: SimpleCNN model (from scratch)
 ├── part2_resnet_train.py     # Part 2: ResNet18 model training
@@ -27,6 +27,5 @@ This challenge involves training and evaluating deep learning models on the CIFA
 ├── requirements.txt          # Python dependencies
 ├── DL4DS_Midterm_Report.docx # Full report (submitted separately)
 └── README.md                 # Project summary
-```
 
 

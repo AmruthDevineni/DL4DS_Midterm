@@ -25,7 +25,7 @@ This challenge involves training and evaluating deep learning models on the CIFA
 ├── eval_cifar100.py          # Evaluation on CIFAR-100 test set
 ├── eval_ood.py               # Evaluation on OOD data
 ├── requirements.txt          # Python dependencies
-├── DL4DS_Midterm_Report.docx # Full report 
+├── DL4DS_Report.pdf # Full report 
 └── README.md                 # Project summary
 ```
 

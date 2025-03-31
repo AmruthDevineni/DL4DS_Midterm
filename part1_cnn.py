@@ -22,6 +22,10 @@ class SimpleCNN(nn.Module):
     def __init__(self):
         super(SimpleCNN, self).__init__()
         # TODO - define the layers of the network you will use
+        # This is my custom convolutional neural network built from scratch.
+        # It uses three convolutional blocks with batch normalization and ReLU,
+        # followed by max pooling and two fully connected layers.
+        # Dropout is used for regularization.
         self.conv_layers = nn.Sequential(
             nn.Conv2d(3, 32, kernel_size=3, padding=1),
             nn.BatchNorm2d(32),
